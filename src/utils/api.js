@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = 'https://logistic-backend-umhs.onrender.com' || '/api'
+const API = 'https://logistic-backend-umhs.onrender.com';
 
 export const api = {
   // Locations
